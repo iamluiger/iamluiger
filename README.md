@@ -1,4 +1,10 @@
-### Hi there 👋
+### **Luis Ernesto Gonzalez Gonzalez 👋
+**Regional Senior Solution Architect, Region Andina en Red Hat**
+
+Asesor en transformación digital y tecnologías disruptivas que ayudan a nuestros clientes a generar capacidades para una nueva economía. Con más de 20 años de experiencia en la industria de tecnología e internet, ayudando en este tiempo a muchos bancos, empresas públicas y telcos a crecer y convertir sus retos en oportunidades de reinvención.
+
+Mi Blog esta en este [Link](https://iamluiger.github.io/)
+
 
 <!--
 **iamluiger/iamluiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
